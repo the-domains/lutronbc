@@ -1,0 +1,14 @@
+layout_spectrum: 0.5755314
+color:
+  saturation: 0.7156808
+  lightness: 0.442959
+  brandStrength: 0.8650512
+  brandColors:
+    - '#E4BCA2'
+    - '#2B5875'
+    - '#FFFFFA'
+    - '#A69F99'
+    - '#71807B'
+  rhythmicContrast: 0.1797998
+typography_spectrum: 0.02423539
+name: LutronBC
